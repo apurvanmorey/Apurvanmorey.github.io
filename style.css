@@ -33,6 +33,7 @@
   transition: 0.5s;
   width: 420px;
   height: 420px;
+  transform: scale(1);
 }
 
 .box:hover .imgbox img {
