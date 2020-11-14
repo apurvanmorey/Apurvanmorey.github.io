@@ -140,4 +140,12 @@
     height: 320px;
     width: 320px;
   }
+   .details h2 {
+    font-size: 20px;
+  }
+
+  .details h2 span {
+    color: #a3a3a3;
+    font-size: 14px;
+  }
 }
